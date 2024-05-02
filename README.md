@@ -1,2 +1,2 @@
-# boilerplate_laravel_11_stislala
+# boilerplate_laravel_11_stisla
 starter project when develop website
