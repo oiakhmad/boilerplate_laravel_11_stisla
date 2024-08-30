@@ -60,8 +60,8 @@ fortify https://laravel.com/docs/11.x/fortify
 
 example use add page route on (app/Providers/FortifyServiceProvider.php) in fuction boot() Fortify::loginView(function(){ return view('pages.auth.login'); });
 # List feature
- 1.login and logout
- 2.crud users
+ - login and logout
+ - crud users
 
 ## Noted
 -- config pagination 'app\Providers\AppServiceProvider.php' add the code Paginator::useBootstrapFour(); on function boot()
