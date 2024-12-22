@@ -53,6 +53,14 @@ for run servie can use
 ```
 php artisan serve
 ```
+check where the server is running
+``
+http://127.0.0.1:port
+``
+open the url and can use user in bellow for login 
+username: hello@gmail.com
+pwd :123456
+
 # all package in use on this project
 template admin stisla https://github.com/stisla/stisla
 
